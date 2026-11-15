@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque>
+    <livre categorie="technologie">
+        <titre lang="fr">Apprendre XML</titre>
+        <auteur>Jean Dupont</auteur>
+        <prix>29.99</prix>
+    </livre>
+    <livre categorie="roman">
+        <titre lang="fr">Le Mystère de la Chambre 12</titre>
+        <auteur>Marie Martin</auteur>
+        <prix currency="EUR">14.50</prix>
+    </livre>
+    <livre categorie="technologie">
+        <titre lang="en">XPath in Practice</titre>
+        <auteur>Awa Diop</auteur>
+        <auteur>Samba Fall</auteur>
+        <prix currency="XOF">9500</prix>
+    </livre>
+    <livre categorie="roman">
+        <titre lang="fr">Les Nuits de Dakar</titre>
+        <auteur>Marie Martin</auteur>
+        <prix currency="XOF">1000</prix>
+    </livre>
+    <livre categorie="poesie">
+        <titre lang="fr">Poèmes du fleuve</titre>
+        <auteur>Fatou Ba</auteur>
+    </livre>
+</bibliotheque>    

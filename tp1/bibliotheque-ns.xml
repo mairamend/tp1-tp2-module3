@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque xmlns="urn:cours:bibliotheque">
+    <livre categorie="roman">
+        <titre>Le Mystère de la Chambre 12</titre>
+        <prix>14.50</prix>
+    </livre>
+    <livre categorie="technologie">
+        <titre>Apprendre XML</titre>
+        <prix>29.99</prix>
+    </livre>
+</bibliotheque>
