@@ -3,4 +3,8 @@ A1.
 Le nombre d'élément dans bibliothèque : 21
 Le nombre d'attribut : 13
 Le nombre de noeuds texte non vides : 15
-
+A2.
+Le nombre d'enfant du premier livre : 7
+Le nombre d'enfant * du  premier livre : 3
+Les deux nommbre différent car le premier compte tous les noeuds enfants c'est le texte et les espaces blanc
+alors que le second ne compte que le texte
