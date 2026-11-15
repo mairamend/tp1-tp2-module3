@@ -1,0 +1,6 @@
+<!-- 47507202689 — Ndiath Mairame Thierno -->
+A1. 
+Le nombre d'élément dans bibliothèque : 21
+Le nombre d'attribut : 13
+Le nombre de noeuds texte non vides : 15
+
