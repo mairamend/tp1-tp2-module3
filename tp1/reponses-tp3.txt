@@ -8,3 +8,5 @@ Le nombre d'enfant du premier livre : 7
 Le nombre d'enfant * du  premier livre : 3
 Les deux nommbre différent car le premier compte tous les noeuds enfants c'est le texte et les espaces blanc
 alors que le second ne compte que le texte
+A3 : 1 livre avec plus d'un auteur (count(//livre[count(auteur)>1])) ; 
+1 livre sans prix (count(//livre[not(prix)]))
